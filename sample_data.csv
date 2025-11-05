@@ -1,0 +1,134 @@
+Timestamp,City,Temperature,Feels_Like,Humidity,Pressure,Weather,Description,Wind_Speed,Cloudiness
+2025-10-26 09:37:37,Varanasi,28.12,29.86,62,1014,Clouds,broken clouds,2.63,77
+2025-10-26 09:37:38,Varanasi,28.12,29.86,62,1014,Clouds,broken clouds,2.63,77
+2025-10-26 09:42:38,Varanasi,28.12,29.86,62,1014,Clouds,broken clouds,2.63,77
+2025-10-26 09:47:38,Varanasi,28.12,29.86,62,1014,Clouds,broken clouds,2.63,77
+2025-10-26 09:52:39,Varanasi,28.12,29.86,62,1014,Clouds,broken clouds,2.63,77
+2025-10-26 09:57:39,Varanasi,28.12,29.86,62,1014,Clouds,broken clouds,2.63,77
+2025-10-26 10:02:40,Varanasi,28.12,29.86,62,1014,Clouds,broken clouds,2.63,77
+2025-10-26 10:07:40,Varanasi,29.34,31.29,58,1013,Clouds,broken clouds,2.73,79
+2025-10-26 10:12:40,Varanasi,29.34,31.29,58,1013,Clouds,broken clouds,2.73,79
+2025-10-26 10:17:41,Varanasi,29.34,31.29,58,1013,Clouds,broken clouds,2.73,79
+2025-10-26 10:27:11,Varanasi,29.34,31.29,58,1013,Clouds,broken clouds,2.73,79
+2025-10-26 10:32:11,Varanasi,29.05,29.85,51,1013,Haze,haze,2.06,75
+2025-10-26 10:37:12,Varanasi,29.05,29.85,51,1013,Haze,haze,2.06,75
+2025-10-26 12:04:25,Varanasi,30.74,32.57,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 12:09:26,Varanasi,30.74,32.57,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 12:14:26,Varanasi,30.74,32.57,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 12:19:26,Varanasi,30.74,32.57,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 12:24:27,Varanasi,30.74,32.57,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 12:29:27,Varanasi,30.74,32.57,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 12:34:27,Varanasi,30.74,32.57,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 12:39:28,Varanasi,30.74,32.57,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 12:44:28,Varanasi,30.55,32.26,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 12:49:28,Varanasi,30.55,32.26,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 12:54:29,Varanasi,30.55,32.26,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 12:59:29,Varanasi,30.55,32.26,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 13:04:29,Varanasi,30.55,32.26,52,1011,Clouds,overcast clouds,2.5,99
+2025-10-26 13:43:35,Varanasi,30.53,32.22,52,1010,Clouds,overcast clouds,2.18,99
+2025-10-26 13:48:35,Varanasi,30.53,32.22,52,1010,Clouds,overcast clouds,2.18,99
+2025-10-26 13:58:36,Varanasi,30.53,32.22,52,1010,Clouds,overcast clouds,2.18,99
+2025-10-26 14:03:36,Varanasi,30.53,32.22,52,1010,Clouds,overcast clouds,2.18,99
+2025-10-26 14:08:36,Varanasi,30.66,32.06,50,1010,Clouds,overcast clouds,2.05,99
+2025-10-26 14:13:37,Varanasi,30.66,32.06,50,1010,Clouds,overcast clouds,2.05,99
+2025-10-26 14:18:37,Varanasi,30.66,32.06,50,1010,Clouds,overcast clouds,2.05,99
+2025-10-26 14:23:38,Varanasi,30.66,32.06,50,1010,Clouds,overcast clouds,2.05,99
+2025-10-26 14:28:38,Varanasi,30.66,32.06,50,1010,Clouds,overcast clouds,2.05,99
+2025-10-26 14:33:38,Varanasi,30.66,32.06,50,1010,Clouds,overcast clouds,2.05,99
+2025-10-26 14:38:39,Varanasi,30.66,32.06,50,1010,Clouds,overcast clouds,2.05,99
+2025-10-26 14:43:39,Varanasi,30.66,32.06,50,1010,Clouds,overcast clouds,2.05,99
+2025-10-26 14:48:39,Varanasi,30.66,32.06,50,1010,Clouds,overcast clouds,2.05,99
+2025-10-26 14:53:40,Varanasi,31.05,32.31,48,1010,Haze,haze,2.06,75
+2025-10-26 15:01:09,Varanasi,31.05,32.31,48,1010,Haze,haze,2.06,75
+2025-10-26 15:05:50,Varanasi,31.05,32.31,48,1009,Haze,haze,2.06,75
+2025-10-26 15:05:50,Varanasi,31.05,32.31,48,1009,Haze,haze,2.06,75
+2025-10-26 22:14:19,Varanasi,26.05,26.05,83,1012,Mist,mist,0.0,75
+2025-10-26 22:14:19,Varanasi,26.05,26.05,83,1012,Mist,mist,0.0,75
+2025-10-26 22:15:19,Varanasi,26.05,26.05,83,1012,Mist,mist,0.0,75
+2025-10-26 22:16:20,Varanasi,26.05,26.05,83,1012,Mist,mist,0.0,75
+2025-10-27 09:20:19,Varanasi,28.07,29.55,60,1014,Clouds,overcast clouds,2.95,95
+2025-10-27 09:20:19,Varanasi,28.07,29.55,60,1014,Clouds,overcast clouds,2.95,95
+2025-10-27 11:37:53,Varanasi,28.05,30.63,69,1012,Haze,haze,2.57,75
+2025-10-27 11:37:53,Varanasi,28.05,30.63,69,1012,Haze,haze,2.57,75
+2025-10-27 12:07:53,Varanasi,28.05,30.63,69,1011,Haze,haze,3.09,75
+2025-10-27 12:37:54,Varanasi,28.05,30.12,65,1011,Haze,haze,4.12,75
+2025-10-27 13:07:54,Varanasi,29.05,31.28,61,1010,Haze,haze,3.6,75
+2025-10-27 14:40:47,Varanasi,28.52,30.38,61,1010,Clouds,overcast clouds,2.08,98
+2025-10-27 14:40:48,Varanasi,28.52,30.38,61,1010,Clouds,overcast clouds,2.08,98
+2025-10-27 15:10:48,Varanasi,27.05,28.77,68,1010,Clouds,overcast clouds,2.06,99
+2025-10-27 15:40:49,Varanasi,27.05,28.77,68,1010,Clouds,overcast clouds,2.06,99
+2025-10-27 16:10:49,Varanasi,26.48,26.48,70,1010,Clouds,overcast clouds,1.99,99
+2025-10-27 16:43:08,Varanasi,26.48,26.48,70,1010,Clouds,overcast clouds,1.99,99
+2025-10-27 17:13:36,Varanasi,26.37,26.37,68,1010,Clouds,overcast clouds,1.47,99
+2025-10-27 17:57:14,Varanasi,26.37,26.37,68,1010,Clouds,overcast clouds,1.47,99
+2025-10-27 17:57:14,Varanasi,26.37,26.37,68,1010,Clouds,overcast clouds,1.47,99
+2025-10-27 21:52:30,Varanasi,26.42,26.42,57,1013,Clouds,overcast clouds,1.83,100
+2025-10-27 21:52:31,Varanasi,26.42,26.42,57,1013,Clouds,overcast clouds,1.83,100
+2025-10-27 22:19:39,Varanasi,25.92,26.08,58,1013,Clouds,overcast clouds,2.54,100
+2025-10-27 22:19:39,Varanasi,25.92,26.08,58,1013,Clouds,overcast clouds,2.54,100
+2025-10-28 10:17:12,Varanasi,24.05,24.55,78,1013,Mist,mist,3.09,75
+2025-10-28 10:17:12,Varanasi,24.05,24.55,78,1013,Mist,mist,3.09,75
+2025-10-28 10:47:13,Varanasi,25.05,25.52,73,1013,Mist,mist,4.12,75
+2025-10-28 11:41:30,Varanasi,31.08,32.36,48,1012,Clouds,overcast clouds,3.66,100
+2025-10-28 12:11:30,Varanasi,31.77,33.08,46,1010,Clouds,broken clouds,3.71,54
+2025-10-28 13:06:03,Varanasi,32.16,33.29,44,1010,Clouds,few clouds,3.9,22
+2025-10-28 13:36:04,Varanasi,32.16,33.29,44,1010,Clouds,few clouds,3.9,22
+2025-10-28 14:06:04,Varanasi,28.05,30.63,69,1009,Haze,haze,4.12,75
+2025-10-28 14:36:05,Varanasi,28.05,30.63,69,1009,Haze,haze,4.12,75
+2025-10-28 15:18:46,Varanasi,28.05,30.63,69,1009,Haze,haze,4.63,75
+2025-10-28 15:18:46,Varanasi,28.05,30.63,69,1009,Haze,haze,4.63,75
+2025-10-28 17:35:58,Varanasi,27.05,29.29,74,1009,Haze,haze,4.12,75
+2025-10-28 17:35:59,Varanasi,27.05,29.29,74,1009,Haze,haze,4.12,75
+2025-10-28 18:24:04,Varanasi,25.05,25.78,83,1010,Mist,mist,2.06,75
+2025-10-28 18:24:04,Varanasi,25.05,25.78,83,1010,Mist,mist,2.06,75
+2025-10-28 19:55:55,Varanasi,24.05,24.68,83,1011,Mist,mist,1.54,75
+2025-10-28 19:55:55,Varanasi,24.05,24.68,83,1011,Mist,mist,1.54,75
+2025-10-28 20:25:56,Varanasi,25.05,25.65,78,1012,Mist,mist,2.06,75
+2025-10-28 20:58:46,Varanasi,25.05,25.65,78,1012,Mist,mist,2.06,75
+2025-10-28 21:16:46,Varanasi,26.46,26.46,55,1012,Clouds,overcast clouds,2.72,100
+2025-10-28 21:16:47,Varanasi,26.46,26.46,55,1012,Clouds,overcast clouds,2.72,100
+2025-10-28 21:52:54,Varanasi,26.46,26.46,55,1012,Clouds,overcast clouds,2.72,100
+2025-10-28 21:52:54,Varanasi,26.46,26.46,55,1012,Clouds,overcast clouds,2.72,100
+2025-10-29 09:32:18,Varanasi,23.05,23.71,88,1013,Mist,mist,2.06,75
+2025-10-29 09:32:18,Varanasi,23.05,23.71,88,1013,Mist,mist,2.06,75
+2025-10-29 10:30:01,Varanasi,24.05,24.81,88,1013,Mist,mist,2.06,75
+2025-10-29 10:30:01,Varanasi,24.05,24.81,88,1013,Mist,mist,2.06,75
+2025-10-29 11:12:43,Varanasi,24.05,24.81,88,1012,Mist,mist,3.09,75
+2025-10-29 11:12:43,Varanasi,24.05,24.81,88,1012,Mist,mist,3.09,75
+2025-10-29 11:42:43,Varanasi,25.05,25.78,83,1012,Mist,mist,2.06,75
+2025-10-29 13:24:10,Varanasi,25.05,25.91,88,1010,Mist,mist,3.09,75
+2025-10-29 13:24:11,Varanasi,25.05,25.91,88,1010,Mist,mist,3.09,75
+2025-10-29 15:12:47,Varanasi,26.05,26.05,83,1010,Mist,mist,3.6,75
+2025-10-29 15:12:47,Varanasi,26.05,26.05,83,1010,Mist,mist,3.6,75
+2025-10-29 15:42:47,Varanasi,23.42,23.88,79,1010,Clouds,overcast clouds,4.21,100
+2025-10-29 16:12:48,Varanasi,23.17,23.61,79,1010,Clouds,overcast clouds,4.05,100
+2025-10-29 16:42:48,Varanasi,23.17,23.61,79,1010,Clouds,overcast clouds,4.05,100
+2025-10-29 17:12:54,Varanasi,25.05,25.91,88,1010,Mist,mist,3.6,100
+2025-10-29 17:42:54,Varanasi,25.05,25.91,88,1010,Mist,mist,3.6,100
+2025-10-29 18:12:55,Varanasi,24.05,24.97,94,1010,Clouds,overcast clouds,3.6,100
+2025-10-29 18:42:55,Varanasi,24.05,24.97,94,1010,Clouds,overcast clouds,3.09,100
+2025-10-29 19:12:55,Varanasi,24.05,24.97,94,1010,Clouds,overcast clouds,3.6,100
+2025-10-29 19:42:56,Varanasi,24.05,24.97,94,1010,Clouds,overcast clouds,3.09,100
+2025-10-29 20:12:56,Varanasi,22.49,22.94,82,1011,Clouds,overcast clouds,3.17,99
+2025-10-29 21:00:07,Varanasi,22.49,22.94,82,1011,Clouds,overcast clouds,3.17,99
+2025-10-29 21:00:08,Varanasi,22.49,22.94,82,1011,Clouds,overcast clouds,3.17,99
+2025-10-29 21:30:08,Varanasi,22.43,22.9,83,1011,Clouds,overcast clouds,3.04,99
+2025-10-29 22:00:08,Varanasi,24.05,24.81,88,1011,Mist,mist,2.57,75
+2025-10-30 09:31:57,Varanasi,22.98,23.34,77,1014,Clouds,overcast clouds,7.58,100
+2025-10-30 09:31:58,Varanasi,22.98,23.34,77,1014,Clouds,overcast clouds,7.58,100
+2025-10-30 10:01:58,Varanasi,22.98,23.34,77,1014,Clouds,overcast clouds,7.58,100
+2025-10-30 10:31:59,Varanasi,23.03,23.4,77,1013,Clouds,overcast clouds,7.9,97
+2025-10-30 11:01:59,Varanasi,24.81,25.2,71,1012,Clouds,overcast clouds,8.64,92
+2025-10-30 11:31:59,Varanasi,24.81,25.2,71,1012,Clouds,overcast clouds,7.52,92
+2025-10-30 12:02:00,Varanasi,24.81,25.2,71,1012,Clouds,overcast clouds,7.52,92
+2025-10-30 12:32:00,Varanasi,25.77,26.2,69,1010,Clouds,overcast clouds,7.6,90
+2025-10-30 13:02:01,Varanasi,25.77,26.2,69,1010,Clouds,overcast clouds,7.6,90
+2025-10-30 13:32:01,Varanasi,26.25,26.25,68,1009,Clouds,overcast clouds,7.71,95
+2025-10-30 14:02:02,Varanasi,2```6.25,26.25,68,1009,Clouds,overcast clouds,7.71,95
+2025-10-30 14:32:03,Varanasi,23.05,23.87,94,1009,Mist,mist,4.63,100
+2025-10-30 19:13:48,Varanasi,22.81,23.24,80,1010,Rain,light rain,6.73,100
+2025-10-30 19:13:48,Varanasi,22.81,23.24,80,1010,Rain,light rain,6.73,100
+2025-10-30 20:13:48,Varanasi,23.05,23.87,94,1010,Rain,moderate rain,4.63,100
+2025-10-30 20:43:49,Varanasi,23.05,23.87,94,1010,Rain,light rain,4.12,100
+2025-10-30 21:13:49,Varanasi,23.05,23.87,94,1010,Rain,light rain,4.12,100
+2025-10-30 21:43:49,Varanasi,23.05,23.87,94,1010,Clouds,overcast clouds,4.12,100
